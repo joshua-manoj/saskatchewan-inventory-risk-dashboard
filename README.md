@@ -99,8 +99,7 @@ The dashboard provides:
 
 | File | Description |
 |------|-------------|
-| `Sales_Inventory_Analysis.csv` | Processed dataset with Stock-to-Sales ratios and inventory status |
-| `sales_dataset.csv` | Raw sales transaction data used for analysis |
+| `Sales_Inventory_Analysis.csv` | raw dataset with Stock-to-Sales ratios and inventory status |
 | `README.md` | Project documentation |
 
 ---
